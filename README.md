@@ -2,7 +2,7 @@
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
-# Olá 💻 , Bem-vindo ao meu perfil do GitHub
+# Olá 💻 ,              Bem-vindo ao meu perfil do GitHub
 
 <p align="center"><picture align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5379BE&size=27&center=false&lines=Meu+Nome+é+God+Blessedd...;Tenho+21+anos+...;Estudante+de+Engenharia+Civil..."/>
 
